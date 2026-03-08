@@ -22,12 +22,12 @@ Script creates an overlay and then scans a small square in the middle of the scr
 2. Now run CMD (Win+R) and enter command<br>
    <b>python -m pip install mss numpy</b>
 
-3. Put the script in C: folder or any other and then run Windows Powershell as an admin.
+3. Put the script in <b>C:</b> folder or any other and then run Windows Powershell as an admin.
 
 4. In PowerShell run command<br>
-   python3 cs2_overlay.py
+   <b>python3 cs2_overlay.py</b>
 
-   Make sure you run it in the same folder as the script, for example if you put script in C: folder you need to run it from C:, so dont forget to change directories using cd command.
+   Make sure you run it in the same folder as the script, for example if you put script in C: folder you need to run it from C:, so dont forget to change directories using <b>cd</b> command.
 
 5. Enjoy black flashbangs!
    
