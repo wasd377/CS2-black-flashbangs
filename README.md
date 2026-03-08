@@ -17,10 +17,10 @@ Script creates an overlay and then scans a small square in the middle of the scr
 
 ## Installation
 
-1. Install Python. Go to https://www.python.org/downloads/ and download the latest stable version. make sure to click «Add Python to PATH» during installation. 
+1. Install Python. Go to <b>https://www.python.org/downloads/</b> and download the latest stable version. make sure to click <b>«Add Python to PATH»</b> during installation. 
 
 2. Now run CMD (Win+R) and enter command<br>
-   python -m pip install mss numpy
+   <b>python -m pip install mss numpy</b>
 
 3. Put the script in C: folder or any other and then run Windows Powershell as an admin.
 
