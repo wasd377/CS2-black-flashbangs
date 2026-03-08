@@ -4,7 +4,7 @@
 
 ---
 
-## Preview
+## Preview (click on picture to watch youtube video)
 
 [![Watch on YouTube](https://img.youtube.com/vi/lmuxObEzlGs/maxresdefault.jpg)](https://youtube.com/shorts/lmuxObEzlGs)
 ---
